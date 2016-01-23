@@ -5,9 +5,11 @@ body {
   font-family: 'Roboto', sans-serif;
   color:#727272;
   font-weight:500;
-  min-width:500px;
-  width:70%;
-  margin: 0 auto;
+  max-width:650px;
+  line-height:1.2;
+  padding: 30px 10px;
+  margin-left: 150px;  
+  margin-right: auto;  
 }
 
 header {
@@ -19,24 +21,5 @@ header {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-}
-
-
-h3 {
-  padding-left:10px;
-  font-weight:500;
-  font-style:italic;
-  color:#494949;
-  width:40%;
-  text-align:left;
-}
-
-p {
-  width:40%;
-  text-align:left;
-}
-
-.wrapper {
-  width:860px;
-  margin:0 auto;
+  line-height:1.2;
 }
