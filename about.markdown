@@ -12,7 +12,7 @@ I just use Jekyll and github pages:
 
 ### Github Pages:
 
-[Using with Jekyll][https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll]
+[Using Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 
 ### Jekyll
 This is the default Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
